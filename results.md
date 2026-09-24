@@ -2,7 +2,7 @@
 
 `random_state` = **1234** (last 4 digits of student ID)
 
-> **Placeholder.** Set `RANDOM_STATE` in `lab3.py` to the last 4 digits of your student ID and re-run; every number and answer below will update.
+> **Placeholder.** Set `RANDOM_STATE` in `lab/config.py` to the last 4 digits of your student ID and re-run; every number and answer below will update.
 
 ## Step 2 — Load and inspect the data
 
